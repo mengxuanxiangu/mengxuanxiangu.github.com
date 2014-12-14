@@ -1,6 +1,6 @@
 ---
     layout:default
-    title:Hello world
+    title:Hello mengxuan
 ---
 <h2>{{page.tile}}</h2>
 <p>Hello world</p>
