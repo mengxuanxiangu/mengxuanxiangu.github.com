@@ -6,7 +6,7 @@ category:
 tags: yunwei
 ---
 
-##安装本地jekyll
+###安装本地jekyll
 安装jekyll老报失败 
 
 ``` python
@@ -26,13 +26,13 @@ $ sudo gem update --system
 $ sudo gem install jekyll
 ```
 
-##安装模板，默认的模板是Maruku，我们替换为RDiscount
+###安装模板，默认的模板是Maruku，我们替换为RDiscount
 
 ``` python
 Maruku是纯ruby写的Markdown模板解释器。 RDiscount是C写的模板解释器。
 ```
 
-##导入jekyll模板
+###导入jekyll模板
 ``` python
 $ git clone https://github.com/plusjade/jekyll-bootstrap.git
 ```
