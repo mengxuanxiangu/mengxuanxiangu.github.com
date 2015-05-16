@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MengYiXuan</title>
+    <description>wenxinxiaozhu</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 16 May 2015 04:18:52 -0400</pubDate>
+    <lastBuildDate>Sat, 16 May 2015 04:18:52 -0400</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>test2</title>
+        <description></description>
+        <pubDate>Sat, 16 May 2015 00:00:00 -0400</pubDate>
+        <link>/articles/15/test2</link>
+        <guid isPermaLink="true">/articles/15/test2</guid>
+        
+        <category>python</category>
+        
+        <category>python2</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>test</title>
+        <description></description>
+        <pubDate>Sat, 16 May 2015 00:00:00 -0400</pubDate>
+        <link>/articles/15/test</link>
+        <guid isPermaLink="true">/articles/15/test</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>你好</title>
+        <description>&lt;p&gt;this is a test for my new blog&lt;/p&gt;
+</description>
+        <pubDate>Fri, 15 May 2015 00:00:00 -0400</pubDate>
+        <link>/articles/15/haha</link>
+        <guid isPermaLink="true">/articles/15/haha</guid>
+        
+        <category>mengxuan</category>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You&amp;#39;ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
+To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.=]&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll&amp;#39;s GitHub repo&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 15 May 2015 00:00:00 -0400</pubDate>
+        <link>/articles/15/a</link>
+        <guid isPermaLink="true">/articles/15/a</guid>
+        
+        <category>mengxuan</category>
+        
+        
+        <category>jekyll update</category>
+        
+      </item>
+    
+      <item>
+        <title>HaHa</title>
+        <description>&lt;p&gt;this is a test for my new blog&lt;/p&gt;
+</description>
+        <pubDate>Thu, 15 May 2014 00:00:00 -0400</pubDate>
+        <link>/articles/14/haha</link>
+        <guid isPermaLink="true">/articles/14/haha</guid>
+        
+        <category>hou</category>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+      <item>
+        <title>HaHa</title>
+        <description>&lt;p&gt;this is a test for my new blog&lt;/p&gt;
+</description>
+        <pubDate>Tue, 15 Apr 2014 00:00:00 -0400</pubDate>
+        <link>/articles/14/haha</link>
+        <guid isPermaLink="true">/articles/14/haha</guid>
+        
+        <category>mengxuan</category>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+  </channel>
+</rss>
