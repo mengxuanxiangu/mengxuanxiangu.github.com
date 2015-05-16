@@ -85,7 +85,7 @@ desc "Begin a new post in #{POSTS}"
 task :post do
   abort("rake aborted: '#{POSTS}' directory not found.") unless FileTest.directory?(POSTS)
   title = ENV["title"] || "new-post"
-  tags = ENV["tags"] || "[]"
+  tags = ENV["tags"] || ""
   category = ENV["category"] || ""
   category = "\"#{category.gsub(/-/,' ')}\"" if !category.empty?
   slug = title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
