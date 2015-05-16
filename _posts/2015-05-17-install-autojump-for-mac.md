@@ -19,7 +19,7 @@ $[[ -s `brew --prefix`/etc/autojump.sh ]] && . `brew --prefix`/etc/autojump.sh
 
 或者如下：
 
-``` shell
+``` python
 if [ $commands[autojump] ]; then # check if autojump is installed
   if [ -f $HOME/.autojump/etc/profile.d/autojump.zsh ]; then # manual user-local installation
     . $HOME/.autojump/etc/profile.d/autojump.zsh
